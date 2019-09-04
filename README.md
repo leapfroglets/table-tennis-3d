@@ -1,8 +1,7 @@
 # Table Tennis 3D
 
-
 <h2>To play online</h2>
- <a href="https://cdn.rawgit.com/leapfroglets/table-tennis-3d/master/index.html">Try it Here!!! </a>
+ <a href="https://safalpandey.github.io/js-table-tennis/index">Try it Here!!! </a>
 
 <h3><strong>How to play</strong></h3>
 <p>
